@@ -19,5 +19,3 @@ Designer / builder working across product design, code and AI-assisted tools. I 
     />
   </picture>
 </p>
-
-[mayank-singh.com](https://mayank-singh.com) · [x.com/0xMayankSingh](https://x.com/0xMayankSingh)
