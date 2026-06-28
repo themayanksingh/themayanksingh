@@ -1,3 +1,9 @@
+# Hi, I'm Mayank 👋
+
+Designer / builder working across product design, code and AI-assisted tools.
+
+I design in Figma, build with code, and use AI to move faster without outsourcing taste or judgment.
+
 <p align="left">
   <picture>
     <source
@@ -11,6 +17,7 @@
     <img
       src="https://streak-stats.demolab.com?user=themayanksingh&theme=default&hide_border=true&background=00000000"
       alt="GitHub streak stats"
+      width="520"
     />
   </picture>
 </p>
